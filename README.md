@@ -9,7 +9,6 @@ Welcome to the Histogram-Based Preprocessing project! This project demonstrates 
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Introduction
 
@@ -50,9 +49,6 @@ NumPy: Library for numerical computations
 Pandas: Data manipulation and analysis library
 Matplotlib: Plotting library for visualizations
 scikit-learn: Machine learning library.
-
-# License
-Distributed under the MIT License. See LICENSE for more information.
 
 Thank you for visiting the Histogram-Based Preprocessing project! If you have any questions, feel free to open an issue or reach out.
 
